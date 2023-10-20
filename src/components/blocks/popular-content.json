@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_blocks_popular_contents",
+  "info": {
+    "displayName": "PopularContent",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "blockTitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "dashboard.content-card"
+    },
+    "btn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "dashboard.button"
+    }
+  }
+}

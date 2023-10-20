@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_teams_duties_cards",
+  "info": {
+    "displayName": "DutiesCard"
+  },
+  "options": {},
+  "attributes": {
+    "role": {
+      "type": "string"
+    }
+  }
+}

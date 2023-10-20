@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_dashboard_content_cards",
+  "info": {
+    "displayName": "ContentCard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

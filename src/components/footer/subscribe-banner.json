@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_footer_subscribe_banners",
+  "info": {
+    "displayName": "subscribeBanner",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

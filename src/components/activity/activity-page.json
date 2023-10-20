@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_activity_activity_pages",
+  "info": {
+    "displayName": "ActivityPage",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "link": {
+      "type": "string"
+    },
+    "Activitytitle": {
+      "type": "string"
+    }
+  }
+}

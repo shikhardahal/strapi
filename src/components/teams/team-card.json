@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_teams_team_cards",
+  "info": {
+    "displayName": "TeamCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "img_url": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "designation": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "duties": {
+      "type": "component",
+      "repeatable": true,
+      "component": "teams.duties-card"
+    }
+  }
+}

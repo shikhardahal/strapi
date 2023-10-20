@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_activity_activities",
+  "info": {
+    "displayName": "Activity",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "otheractivities": {
+      "type": "component",
+      "repeatable": true,
+      "component": "activity.other-activities"
+    },
+    "ActivityPage": {
+      "displayName": "ActivityPage",
+      "type": "component",
+      "repeatable": false,
+      "component": "activity.activity-page"
+    }
+  }
+}

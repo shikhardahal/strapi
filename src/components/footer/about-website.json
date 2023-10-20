@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_footer_about_websites",
+  "info": {
+    "displayName": "About Website",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

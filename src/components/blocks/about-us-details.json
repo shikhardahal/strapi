@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_blocks_about_us_details",
+  "info": {
+    "displayName": "AboutUsDetails"
+  },
+  "options": {},
+  "attributes": {
+    "vision": {
+      "type": "text"
+    },
+    "mission": {
+      "type": "text"
+    },
+    "goal": {
+      "type": "text"
+    },
+    "chairmanName": {
+      "type": "string"
+    },
+    "chairmanMsg": {
+      "type": "string"
+    },
+    "chairmanMsgTitle": {
+      "type": "string"
+    },
+    "img_url": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

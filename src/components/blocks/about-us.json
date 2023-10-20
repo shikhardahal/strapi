@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_blocks_aboutuses",
+  "info": {
+    "displayName": "AboutUs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "img_url": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "Details": {
+      "type": "component",
+      "repeatable": false,
+      "component": "blocks.about-us-details"
+    }
+  }
+}

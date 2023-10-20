@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_footer_about_ansdds",
+  "info": {
+    "displayName": "About Ansdd",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

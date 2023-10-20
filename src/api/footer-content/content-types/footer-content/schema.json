@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "footer_contents",
+  "info": {
+    "singularName": "footer-content",
+    "pluralName": "footer-contents",
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MostViewed": {
+      "displayName": "Most Viewed ",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.most-viewed"
+    },
+    "AboutWebsite": {
+      "displayName": "AboutWebsite",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.about-website",
+      "required": true
+    },
+    "Documents": {
+      "displayName": "Documents",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.documents",
+      "required": true
+    },
+    "AboutAnsdd": {
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.about-ansdd"
+    }
+  }
+}

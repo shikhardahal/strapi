@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_footer_most_viewed_s",
+  "info": {
+    "displayName": "Most Viewed ",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

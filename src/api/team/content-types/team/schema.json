@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "teams",
+  "info": {
+    "singularName": "team",
+    "pluralName": "teams",
+    "displayName": "OurTeam"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "TeamCard": {
+      "type": "component",
+      "repeatable": true,
+      "component": "teams.team-card"
+    }
+  }
+}
